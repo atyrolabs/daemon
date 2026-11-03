@@ -1,41 +1,50 @@
-# ATYRO LABS – RESTRICTED USE LICENSE
+ATYRO LABS – PROPRIETARY SOFTWARE LICENSE
 
 Copyright (c) 2026 Atyro Labs. All Rights Reserved.
 
-## 1. Ownership
-This software, including its source code, architecture, design, branding, documentation, and associated assets, is the intellectual property of Atyro Labs and its respective contributors.
+1. OWNERSHIP
 
-## 2. Unauthorized Modifications
-No individual or organization is permitted to modify, edit, alter, rebrand, or create derivative versions of this software for personal or commercial use without prior written authorization from Atyro Labs.
+This software, including its source code, architecture, design, documentation, branding, and associated materials, is the intellectual property of Atyro Labs and its respective copyright holders.
 
-## 3. Prohibited Activities
-The following activities are strictly prohibited without explicit written permission:
+2. RESTRICTED PERMISSIONS
 
-- Modifying or editing the source code.
-- Removing or altering copyright notices.
-- Rebranding or claiming the software as your own.
-- Redistributing modified or repackaged versions.
-- Publishing copies under another name or organization.
-- Selling, sublicensing, or commercially exploiting the software.
-- Claiming authorship or ownership of any part of the original project.
+No permission is granted to modify, edit, fork for redistribution, rebrand, sublicense, sell, or create derivative works of this software without prior explicit written authorization from Atyro Labs.
 
-## 4. Copyright Protection
-Any unauthorized use, modification, redistribution, or misrepresentation of this software may result in legal action under applicable copyright and intellectual property laws.
+3. PROHIBITED ACTIVITIES
 
-## 5. Permission Requests
-For licensing, modification, redistribution, or commercial authorization, contact the Atyro Labs team and obtain written approval before proceeding.
+The following activities are strictly prohibited without prior written permission:
 
-## 6. Violations
-Unauthorized users cannot justify their actions by claiming that the source code was publicly accessible or available on GitHub.
+- Modifying, editing, or altering the original source code.
+- Removing, changing, or hiding copyright notices.
+- Rebranding the software or claiming it as your own.
+- Publishing modified or repackaged versions.
+- Redistributing or commercially exploiting the software.
+- Claiming ownership, authorship, or development credit for the original work.
+- Using Atyro Labs branding, identity, or intellectual property without authorization.
 
-Public availability does not automatically grant permission to violate the terms of this license.
+4. ATTRIBUTION AND COPYRIGHT
 
-## 7. Disclaimer
-This software is provided "AS IS", without warranty of any kind, express or implied. Atyro Labs shall not be held liable for damages arising from the use of this software.
+All copyright notices, ownership statements, and intellectual property rights must remain intact.
+
+Public availability of this repository does not grant anyone automatic permission to use, modify, redistribute, or commercially exploit the software.
+
+5. WRITTEN AUTHORIZATION
+
+Any modification, redistribution, commercial use, or other restricted activity requires prior written approval from Atyro Labs.
+
+6. VIOLATIONS
+
+Unauthorized use, modification, redistribution, or misrepresentation of this software may result in appropriate legal action under applicable copyright and intellectual property laws.
+
+7. DISCLAIMER
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL ATYRO LABS OR ITS COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
 
 ---
 
-**Atyro Labs**  
-Copyright © 2026. All Rights Reserved.
+ATYRO LABS
+Copyright (c) 2026. All Rights Reserved.
 
-Unauthorized modification, redistribution, and ownership claims are strictly prohibited.
+UNAUTHORIZED MODIFICATION, REDISTRIBUTION, REBRANDING, AND OWNERSHIP CLAIMS ARE STRICTLY PROHIBITED.
