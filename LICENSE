@@ -1,21 +1,41 @@
-MIT License
+# ATYRO LABS – RESTRICTED USE LICENSE
 
-Copyright (c) 2026 atyrolabs
+Copyright (c) 2026 Atyro Labs. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Ownership
+This software, including its source code, architecture, design, branding, documentation, and associated assets, is the intellectual property of Atyro Labs and its respective contributors.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 2. Unauthorized Modifications
+No individual or organization is permitted to modify, edit, alter, rebrand, or create derivative versions of this software for personal or commercial use without prior written authorization from Atyro Labs.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 3. Prohibited Activities
+The following activities are strictly prohibited without explicit written permission:
+
+- Modifying or editing the source code.
+- Removing or altering copyright notices.
+- Rebranding or claiming the software as your own.
+- Redistributing modified or repackaged versions.
+- Publishing copies under another name or organization.
+- Selling, sublicensing, or commercially exploiting the software.
+- Claiming authorship or ownership of any part of the original project.
+
+## 4. Copyright Protection
+Any unauthorized use, modification, redistribution, or misrepresentation of this software may result in legal action under applicable copyright and intellectual property laws.
+
+## 5. Permission Requests
+For licensing, modification, redistribution, or commercial authorization, contact the Atyro Labs team and obtain written approval before proceeding.
+
+## 6. Violations
+Unauthorized users cannot justify their actions by claiming that the source code was publicly accessible or available on GitHub.
+
+Public availability does not automatically grant permission to violate the terms of this license.
+
+## 7. Disclaimer
+This software is provided "AS IS", without warranty of any kind, express or implied. Atyro Labs shall not be held liable for damages arising from the use of this software.
+
+---
+
+**Atyro Labs**  
+Copyright © 2026. All Rights Reserved.
+
+Unauthorized modification, redistribution, and ownership claims are strictly prohibited.
