@@ -2,7 +2,7 @@
 
 **Atyro Panel Daemon** is the remote node agent for **Atyro Panel**, a Minecraft server management panel. It runs on each Minecraft node, receives server-management commands from the panel, executes them locally, and reports node health and command results.
 
-> **Version:** `1.0.0`  
+> **Version:** `1.0.1`  
 > **Author:** Atyro Labs  
 > **Component:** Remote Minecraft Node Daemon
 
